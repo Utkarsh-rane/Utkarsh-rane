@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Rane</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-rane" alt="utkarsh-rane" /></a> </p>
 
